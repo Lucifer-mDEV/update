@@ -4,8 +4,8 @@
 	"FileDelete":"https://www.dayzapocalypse.com/update/filedelete.json",
 	"DownloadUpdate": "https://www.dayzapocalypse.com/update/dayz/",		
 	"News": [
-		"https://icarogame.github.io/apocalypseupdate/News/0.png",
-		"https://icarogame.github.io/apocalypseupdate/News/1.png",
-		"https://icarogame.github.io/apocalypseupdate/News/2.png"
+		"https://lucifer-mdev.github.io/update/News/0.png",
+		"https://lucifer-mdev.github.io/update/News/1.png",
+		"https://lucifer-mdev.github.io/update/News/2.png"
 	]			
 }
