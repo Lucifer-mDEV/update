@@ -1,11 +1,11 @@
-{   
-	"Version": "1.00",
-	"FileList":"https://www.dayzapocalypse.com/update/filelist.json",
-	"FileDelete":"https://www.dayzapocalypse.com/update/filedelete.json",
-	"DownloadUpdate": "https://www.dayzapocalypse.com/update/dayz/",		
-	"News": [
-		"https://lucifer-mdev.github.io/update/News/0.png",
-		"https://lucifer-mdev.github.io/update/News/1.png",
-		"https://lucifer-mdev.github.io/update/News/2.png"
-	]			
+{
+    "Version": "1.00",
+    "FileList":"https://26.57.134.142/update/filelist.json",
+    "FileDelete":"https://26.57.134.142/update/filedelete.json",
+    "DownloadUpdate": "https://26.57.134.142/update/dayz/",
+    "News": [
+        "https://lucifer-mdev.github.io/update/News/0.png",
+        "https://lucifer-mdev.github.io/update/News/1.png",
+        "https://lucifer-mdev.github.io/update/News/2.png"
+    ]
 }
